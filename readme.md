@@ -1,21 +1,4 @@
 <div align="center">
-	<div>
-		<sub>Check out my latest app</sub>
-		<br>
-		<h2>
-			<a href="https://sindresorhus.com/camera-preview">Camera Preview</a>
-			<br>
-			<sup>Preview your Mac's webcam and take photos</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<hr>
 	<p>
 		<p>
 			<sup>
